@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://roguedevs-com.github.io/sitemap.xml 
